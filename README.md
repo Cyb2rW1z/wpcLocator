@@ -1,6 +1,6 @@
 # wpcLocator
 ## Overview
-
+![wpcLocator Logo](webrecon.png)
 wpcLocator is a Bash script designed to check various HTTP headers of web pages to identify potential security vulnerabilities related to cache controls. It particularly focuses on Cache-Control headers, max-age headers, and x-Cache headers. The script aims to help identify situations where the cache may be manipulated or poisoned, potentially leading to security issues.
 Features
 
